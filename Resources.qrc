@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/Files">
+        <file>nfl.db</file>
+        <file>wearin.png</file>
+        <file>LOGO.JPG</file>
+        <file>LOGO_2x.png</file>
+        <file>LOGO_4x.png</file>
+        <file>splash.png</file>
+    </qresource>
+    <qresource prefix="/window_icons">
+        <file>windowicons/login_icon.png</file>
+        <file>windowicons/main_icon.png</file>
+        <file>windowicons/trip_icon.png</file>
+        <file>windowicons/tripform_icon.png</file>
+        <file>windowicons/graph_icon.png</file>
+        <file>windowicons/database_icon.png</file>
+        <file>windowicons/exit_icon.png</file>
+        <file>windowicons/save_icon.png</file>
+        <file>windowicons/trip_util_icon.png</file>
+        <file>windowicons/trip_summary.png</file>
+    </qresource>
+    <qresource prefix="/MONKEE">
+        <file>windowicons/monke/monke.jpg</file>
+        <file>windowicons/monke/banana.png</file>
+        <file>windowicons/monke/monkey1.wav</file>
+    </qresource>
+</RCC>

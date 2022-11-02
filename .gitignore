@@ -1,0 +1,7 @@
+*.user
+data.cpp.autosave
+data.h.autosave
+mainwindow.h.autosave
+AdjacencyList.h.autosave
+*.autosave
+map.h.autosave
